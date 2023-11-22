@@ -5,3 +5,6 @@ automaticamente con la repository online collegata.
 convenzione in GIT è main
 
 3) Il workflow dei comandi di GIT è git add -> git commit -> git push
+
+4)Il comando da utilizzare per vedere l’elenco di tutte le commit del
+branch in cui ci si trova e i loro hashcode è git log
