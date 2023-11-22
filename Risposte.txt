@@ -33,3 +33,6 @@ Manutenzione corretiva e serve per correggere gli errori
 Manutenzione evolutiva serve per fare gli aggiornamenti appropriati
 
 Mantutenzione per fare nuove funzioni chieste dall'utente.
+
+8)Un ramo è un branch cioe si puo lavorare su un ramo diveros da quello principale e senza il rischio di fare degli 
+per il ramo principale, cioe si puo lavorare in sicurezza
