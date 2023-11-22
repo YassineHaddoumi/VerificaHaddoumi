@@ -1,0 +1,2 @@
+1) Le commit create in una repository locale non vengono sincronizzate
+automaticamente con la repository online collegata.
