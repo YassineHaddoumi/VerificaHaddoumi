@@ -11,3 +11,5 @@ branch in cui ci si trova e i loro hashcode è git log
 
 5)Il comando per effettuare il rollback ad una commit precedente è git reset  --hard
 
+6)Due motivazioni per giustificare l’utilizzo di GIT: 1)un gruppo di collaboratori puo lavorare su dei file di uno stesso progetto; 2)si puo lavorare su un progetto facendo un branch 
+senza modificare il branch principale,  se va bene puoi aggiungere un file al branch principale altrimenti puoi lasciarlo stare o eliminare  
