@@ -20,4 +20,16 @@ Git pull serve a prendere i file dalla repository
 9) L’ingegneria del software serve per seguire un progetto software chiesto da un cliente ai produttori  e serve per capire cosa vuole il cliente.  Le fasi principali dell'ingegniera del software sono 
 progettazione: cioe si parte da un problema e si prova a risolverlo utilizzando l'informatica;  realizazzione: si traduce il progetto in un programma utlizzando il linguaggio informatico;  riutilizzo: serve per vedere se alcune parti di programma si posso usare per altri progetti oppure se 
 alcuni progetti si possono usare per quello che si sta facendo;  manutenzione: inizia quando nasce il software e finisce quando si dismette un programma e serve per farlo continuare a funzionare
- 
+
+10)Il ciclo di vita del software accompagna il software dalla nascita fino a quando non si usa più. Le fasi principali sono:
+ Analisi: Serve per fare una valutazione di tutto quello che si deve fare (il prezzo, se ho le risorse, il tempo, requisiti del sistema, i test) ; 
+progetto: si fa uno schema di tutto quello che si deve fare
+realizzazione: si fa il programma vero e proprio con il liguaggio di programmazzione che il cliente ha chiesto
+produzione: si porta il programma al cliente, si fanno i test di collaudo e dopo si usa       
+manutenzione:  inizia quando nasce il software e finisce quando si dismette un programma e serve per farlo continuare a funzionare. Puo essere di tre tipi:+
+
+Manutenzione corretiva e serve per correggere gli errori
+
+Manutenzione evolutiva serve per fare gli aggiornamenti appropriati
+
+Mantutenzione per fare nuove funzioni chieste dall'utente.
