@@ -16,3 +16,8 @@ senza modificare il branch principale,  se va bene puoi aggiungere un file al br
 
 7) Git clone serve a clonare cioe copiare una repository online su un pc in locale, pero la cartella dove devo inserire le la repository non deve essere ancora inizializzata 
 Git pull serve a prendere i file dalla repository
+
+9) L’ingegneria del software serve per seguire un progetto software chiesto da un cliente ai produttori  e serve per capire cosa vuole il cliente.  Le fasi principali dell'ingegniera del software sono 
+progettazione: cioe si parte da un problema e si prova a risolverlo utilizzando l'informatica;  realizazzione: si traduce il progetto in un programma utlizzando il linguaggio informatico;  riutilizzo: serve per vedere se alcune parti di programma si posso usare per altri progetti oppure se 
+alcuni progetti si possono usare per quello che si sta facendo;  manutenzione: inizia quando nasce il software e finisce quando si dismette un programma e serve per farlo continuare a funzionare
+ 
